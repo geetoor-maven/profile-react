@@ -1,0 +1,22 @@
+
+
+.containergallery{
+    margin-top: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.containergallery .image-container{
+    columns: 3 15px;
+    gap: 15px;
+}
+
+.containergallery .image-container img{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+/* this if you cursor to image */
+
+/* until this */

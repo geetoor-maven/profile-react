@@ -1,0 +1,64 @@
+.container{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+table,
+tr,
+td{
+    margin-left: auto;
+    margin-right: auto;
+}
+/* for profile */
+.imageprofile{
+    padding-right: 50px;
+    width: 280px;
+    height: 250px;
+}
+
+.imageprofile img{
+    border-radius: 150%;
+}
+
+.nameprofile{
+    font-size: 25px;
+    color: #164E63;
+}
+
+.post{
+    font-size: 15px;
+}
+
+.post span{
+    font-size: 16px;
+    font-weight: bold;
+    color: #164E63;
+}
+
+.desc{
+    font-size: 15px;
+}
+/* until here */
+
+/* for line under profile */
+
+.containerline{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+/* until here */
+
+/* for collection and tagged */
+
+.containerpost ul{
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* until here */
